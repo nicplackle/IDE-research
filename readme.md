@@ -9,7 +9,9 @@
 ### Cons :rage:
 * Expensive
 * Heavyweight 
-* Takes considerable resources to open and run
+* Takes considerable resources to: 
+..*open 
+..*run
 
 ### Languages supported
 ASP.NET, DHTML, JavaScript, JScript, Visual Basic, Visual C#, Visual C++, Visual F#, XAML and more
