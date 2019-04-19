@@ -20,7 +20,8 @@ ASP.NET, DHTML, JavaScript, JScript, Visual Basic, Visual C#, Visual C++, Visual
 * Free
 * Simple drag-and-drop interface
 ### Cons
-* 
+* Not alot of themes and backgrounds
+
 ### Languages supported
 Primarily used for Java apps but supports C, C++, C++11, Fortan, HTML 5, Java, PHP and more
 
