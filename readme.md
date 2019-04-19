@@ -9,7 +9,7 @@
 ### Cons :rage:
 * Expensive
 * Heavyweight 
-* Takes considerable resources to: 
+* Takes considerable resources to 
 ⋅⋅* open. 
 ..* run.
 
