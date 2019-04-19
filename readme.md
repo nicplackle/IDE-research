@@ -4,7 +4,7 @@
 ## [Microsoft Visual Studio](https://visualstudio.microsoft.com/)
 
 ### Pro's
-* Capable of creating *all* types of programs like web and mobile apps and video games
+* Capable of creating **all** types of programs like web and mobile apps and video games
 
 ### Cons
 * Expensive
@@ -28,7 +28,7 @@ Primarily used for Java apps but supports C, C++, C++11, Fortan, HTML 5, Java, P
 ## [VIM](https://www.vim.org/)
 ### Pro's
 1. One-key shortcuts
-2. 2 Modes: Normal and Editing mode. You can record strings and repeat them
+2. 2 Modes: Normal and *Editing* mode. You can record strings and repeat them
 3. Has its own scripting language to alter its behavior and add custom functionality
 4. Supports the largest number of programming languages and non-programming apps
 
