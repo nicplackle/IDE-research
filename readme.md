@@ -33,27 +33,23 @@ ASP.NET, DHTML, JavaScript, JScript, Visual Basic, Visual C#, Visual C++, Visual
 
 ## [Netbeans](https://netbeans.org/)
 ### Pro's :smiley:
-* Free
-* Simple drag-and-drop interface
+1. Free
+2. Simple drag-and-drop interface
 ### Cons :rage:
-* Not alot of themes and backgrounds
+1. Not alot of themes and backgrounds
 
 ### Languages supported
 Primarily used for Java apps but supports C, C++, C++11, Fortan, HTML 5, Java, PHP and more
 
 ## [VIM](https://www.vim.org/)
-### Pro's :smiley:
-1. One-key shortcuts
-2. 2 Modes: Normal and *Editing* mode. You can record strings and repeat them
-3. Has its own scripting language to alter its behavior and add custom functionality
-4. Supports the largest number of programming languages and non-programming apps
-
-### Cons :rage:
-* Use of mouse is slow
-* Doesn't provide WISIWIG editing
-* Doesn't show popups in different font
-* Doesn't render images
-* Have to edit source code in Vim and program it to automatically render preview in other apps
+### Pro's & Cons
+:smiley: | :rage:
+---------|---------
+One-key shortcuts | Doesn't provide WISIWIG editing
+2 Modes: Normal and *Editing* mode. You can record strings and repeat them | Use of mouse is slow
+Has its own scripting language to alter its behavior and add custom functionality | Doesn't show popups in different font
+Supports the largest number of programming languages and non-programming apps | Doesn't render images
+ | Have to edit source code in Vim and program it to automatically render preview in other apps
 
 ## Quote
 > Aim high and bring a parachute
