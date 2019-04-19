@@ -38,6 +38,9 @@ ASP.NET, DHTML, JavaScript, JScript, Visual Basic, Visual C#, Visual C++, Visual
 ### Cons :rage:
 * Not alot of themes and backgrounds
 
+## Quote
+> Aim high and bring a parachute
+
 ### Languages supported
 Primarily used for Java apps but supports C, C++, C++11, Fortan, HTML 5, Java, PHP and more
 
