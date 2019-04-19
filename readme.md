@@ -23,6 +23,7 @@
 ### Languages supported
 ASP.NET, DHTML, JavaScript, JScript, Visual Basic, Visual C#, Visual C++, Visual F#, XAML and more
 
+### [Download here](https://code.visualstudio.com/Download)
 
 ## [Netbeans](https://netbeans.org/)
 ### Pro's :smiley:
