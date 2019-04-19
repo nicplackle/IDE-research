@@ -13,6 +13,12 @@
 ⋅⋅* open. 
 ..* run.
 
+### Code block example
+```# ? What type of extension do you want to create? New Extension (TypeScript)
+# ? What's the name of your extension? HelloWorld
+### Press <Enter> to choose default for all options below ###```
+
+
 ### Languages supported
 ASP.NET, DHTML, JavaScript, JScript, Visual Basic, Visual C#, Visual C++, Visual F#, XAML and more
 
