@@ -10,8 +10,8 @@
 * Expensive
 * Heavyweight 
 * Takes considerable resources to 
-⋅⋅* open. 
-..* run.
+   * open 
+   * run
 
 ### Code block example
 ```# ? What type of extension do you want to create? New Extension (TypeScript)
