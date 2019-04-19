@@ -49,7 +49,6 @@ One-key shortcuts | Doesn't provide WISIWIG editing
 2 Modes: Normal and *Editing* mode. You can record strings and repeat them | Use of mouse is slow
 Has its own scripting language to alter its behavior and add custom functionality | Doesn't show popups in different font
 Supports the largest number of programming languages and non-programming apps | Doesn't render images
- | Have to edit source code in Vim and program it to automatically render preview in other apps
 
 ## Quote
 > Aim high and bring a parachute
