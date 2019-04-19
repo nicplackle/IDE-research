@@ -1,5 +1,11 @@
 # EDITORS 
 
+## Task List
+- [x] Search for different IDE's online
+- [x] Think about the pro's and cons of your chosen IDE
+- [ ] Download and install
+
+
 ![alt text](img/index.png "Microsoft Visual Studio logo")
 ## [Microsoft Visual Studio](https://visualstudio.microsoft.com/)
 
