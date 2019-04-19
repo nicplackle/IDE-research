@@ -1,5 +1,6 @@
 # EDITORS 
 
+![alt text](img/index.png "Microsoft Visual Studio logo")
 ## [Microsoft Visual Studio](https://visualstudio.microsoft.com/)
 
 ### Pro's
