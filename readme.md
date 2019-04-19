@@ -10,7 +10,7 @@
 * Expensive
 * Heavyweight 
 * Takes considerable resources to: 
-..* open. 
+⋅⋅* open. 
 ..* run.
 
 ### Languages supported
