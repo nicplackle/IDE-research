@@ -3,7 +3,7 @@
 ![alt text](img/index.png "Microsoft Visual Studio logo")
 ## [Microsoft Visual Studio](https://visualstudio.microsoft.com/)
 
-### Pro's
+### Pro's :smiley:
 * Capable of creating **all** types of programs like web and mobile apps and video games
 
 ### Cons :rage:
@@ -16,7 +16,7 @@ ASP.NET, DHTML, JavaScript, JScript, Visual Basic, Visual C#, Visual C++, Visual
 
 
 ## [Netbeans](https://netbeans.org/)
-### Pro's
+### Pro's :smiley:
 * Free
 * Simple drag-and-drop interface
 ### Cons :rage:
@@ -26,7 +26,7 @@ ASP.NET, DHTML, JavaScript, JScript, Visual Basic, Visual C#, Visual C++, Visual
 Primarily used for Java apps but supports C, C++, C++11, Fortan, HTML 5, Java, PHP and more
 
 ## [VIM](https://www.vim.org/)
-### Pro's
+### Pro's :smiley:
 1. One-key shortcuts
 2. 2 Modes: Normal and *Editing* mode. You can record strings and repeat them
 3. Has its own scripting language to alter its behavior and add custom functionality
